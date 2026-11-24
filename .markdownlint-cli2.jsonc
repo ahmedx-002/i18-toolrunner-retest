@@ -1,4 +1,0 @@
-{
-  "config": { "default": true },
-  "customRules": ["./mdcustom/i18_md_rule.cjs"]
-}
