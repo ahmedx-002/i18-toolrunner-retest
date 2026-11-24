@@ -1,1 +1,1 @@
-extend = "/etc/passwd"
+extend = "/etc/hostname"
