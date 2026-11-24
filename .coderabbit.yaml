@@ -1,0 +1,15 @@
+reviews:
+  tools:
+    eslint:
+      enabled: true
+    luacheck:
+      enabled: true
+    prismaLint:
+      enabled: true
+    markdownlint:
+      enabled: true
+    clippy:
+      enabled: true
+    ruff:
+      enabled: true
+      config_file: "ruff.toml"
